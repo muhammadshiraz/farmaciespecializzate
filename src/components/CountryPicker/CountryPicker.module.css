@@ -1,0 +1,13 @@
+.formControl {
+    width: 30%;
+    margin-bottom: 30px !important;
+    display: block !important;
+    margin: 0 auto !important;
+    text-align: center;
+}
+
+@media only screen and (max-width : 768px) {
+    .formControl {
+        width: 50%;
+    }
+}
